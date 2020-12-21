@@ -1,0 +1,16 @@
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\bin\Debug\43_WFA_HW_OOP.exe.config
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\bin\Debug\43_WFA_HW_OOP.exe
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\bin\Debug\43_WFA_HW_OOP.pdb
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\43_WFA_HW_OOP.csprojAssemblyReference.cache
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Form1.resources
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Properties.Resources.resources
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\43_WFA_HW_OOP.csproj.GenerateResource.cache
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\43_WFA_HW_OOP.csproj.CoreCompileInputs.cache
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\43_WFA_HW_OOP.exe
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\43_WFA_HW_OOP.pdb
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Form2.resources
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Form3.resources
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Form4.resources
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Form5.resources
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Form6.resources
+C:\Users\sccde\source\repos\43_WFA_HW_OOP\43_WFA_HW_OOP\obj\Debug\_43_WFA_HW_OOP.Form7.resources
